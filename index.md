@@ -1,7 +1,7 @@
 
 ### 三维人脸重建
 <p align="center">
-  <img src="docs/images/3dfacereco.png" alt="demo" width="512px">
+  <img src="resource/3dfacereco.png" alt="demo" width="512px">
 </p>
                   
 
