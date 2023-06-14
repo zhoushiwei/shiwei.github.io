@@ -1,7 +1,7 @@
 
 ### 三维人脸重建
 <p align="center">
-  <img src="docs/images/webcam.gif" alt="demo" width="512px">
+  <img src="docs/images/3dfacereco.png" alt="demo" width="512px">
 </p>
                   
 
@@ -20,6 +20,9 @@
 </p>
 
 ### AI智能捏脸
-- 文本挖掘
-- 知识图谱
-
+<p align="center">
+  <img src="resource/3dcartoonface_1" alt="demo" width="512px">
+</p>
+<p align="center">
+  <img src="resource/3dcartoonface_1" alt="demo" width="512px">
+</p>
