@@ -21,8 +21,8 @@
 
 ### AI智能捏脸
 <p align="center">
-  <img src="resource/3dcartoonface_1" alt="demo" width="512px">
+  <img src="resource/3dcartoonface_1.png" alt="demo" width="512px">
 </p>
 <p align="center">
-  <img src="resource/3dcartoonface_1" alt="demo" width="512px">
+  <img src="resource/3dcartoonface_1.png" alt="demo" width="512px">
 </p>
