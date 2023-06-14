@@ -1,8 +1,9 @@
 
 ### 三维人脸重建
 <p align="center">
-  <img src="/10701821.png" width="50%">
+  <img src="docs/images/webcam.gif" alt="demo" width="512px">
 </p>
+                  
 
 ### 表情驱动
 <p align="center">
