@@ -10,14 +10,8 @@
 <p align="center">
   <img src="resource/v2.gif" alt="demo" width="512px">
 </p>
-
 <p align="center">
   <img src="resource/image130.gif" alt="demo" width="512px">
-</p>
-
-### 虚拟人驱动
-<p align="center">
-  <img src="resource/image25.gif" alt="demo" width="512px">
 </p>
 
 ### AI智能捏脸
@@ -26,4 +20,15 @@
 </p>
 <p align="center">
   <img src="resource/3dcartoonface_2.png" alt="demo" width="512px">
+</p>
+<p align="center">
+  <img src="resource/cartoon_2.jpg" alt="demo" width="512px">
+</p>
+<p align="center">
+  <img src="resource/qq.png" alt="demo" width="512px">
+</p>
+
+### 虚拟人驱动
+<p align="center">
+  <img src="resource/image25.gif" alt="demo" width="512px">
 </p>
